@@ -15,7 +15,7 @@ We are team of Research Methods in Data Science at University of Hertfordshire .
 ![Windows](![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)style=for-the-badge&logo=linux&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-<h1 align="center"> ✨ hugo-fresh | <a href="https://hugo-fresh.vercel.app">Demo</a> | <a href="https://stefma.github.io/hugo-fresh">Documentation</a> ✨ </h1>
+<h1 align="center"> ✨ RDMS | <a href="https://hugo-fresh.vercel.app">Project</a> | <a href="https://stefma.github.io/hugo-fresh">House Price Prediction</a> ✨ </h1>
 <p align="center">The Fresh theme for Hugo</p>
 
 
