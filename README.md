@@ -19,9 +19,9 @@ We are team of Research Methods in Data Science at University of Hertfordshire .
 <p align="center">The Fresh theme for Hugo</p>
 
 
-**Fresh** is a theme for the [Hugo](https://gohugo.io) static site generator adapted from the gorgeous, [Bulma](https://bulma.io)-based theme of the same name from [CSS Ninja](https://cssninja.io/product/fresh). You can find a live demo of the original theme [here](https://fresh.cssninja.io/) and a live demo of the Hugo theme [here](https://hugo-fresh.vercel.app).
 
-# Linear-Regression-Model-for-House-Price-Prediction
+
+** Linear-Regression-Model-for-House-Price-Prediction **
 
 In this task we will learn how to create Machine Learning model using Regression Techniques. We will be analyzing a house price predication dataset for finding out price of house on different parameters. We will do Exploratory Data Analysis, split the training and testing data, Model Evaluation and Predictions. 
 
